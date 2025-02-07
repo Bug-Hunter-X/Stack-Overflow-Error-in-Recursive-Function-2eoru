@@ -1,0 +1,1 @@
+This repository contains a JavaScript code example that demonstrates a stack overflow error caused by uncontrolled recursion. The `foo` function recursively calls itself without an effective base case for large inputs, leading to a stack overflow. The solution demonstrates how to improve the function's efficiency and prevent this issue.
